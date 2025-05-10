@@ -35,4 +35,8 @@ The Timetable Management System is a web-based application designed to streamlin
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/5426a6d2-f19f-45c3-8b3e-7a8688f8fe9a)
+![image](https://github.com/user-attachments/assets/d8d4bee8-025e-4fbc-bf17-f0e413b3bd4a)
+![image](https://github.com/user-attachments/assets/9148e82b-7369-4d4d-8e32-bfa521c29e19)
+
+
 
