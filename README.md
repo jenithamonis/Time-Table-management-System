@@ -13,6 +13,31 @@ The Timetable Management System is a web-based application designed to streamlin
 • Database: MySQL
 • Web Server: Apache
 
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jenithamonis/Time-Table-management-System.git
+   cd Time-Table-management-System
+   
+2.Set up the database:
+
+   -Open phpMyAdmin or any MySQL database tool.
+   -Create a new database.
+   -Import the SQL file located in the SQL/ folder
+
+3.Start a local server:
+
+   -Use XAMPP.
+   -Place the project folder inside the htdocs (for XAMPP).
+
+4.Run the project:
+
+   Open your browser and go to:
+   ```bash
+   http://localhost/Time-Table-management-System/login.php
+   ```
+
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/5426a6d2-f19f-45c3-8b3e-7a8688f8fe9a)
 
