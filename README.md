@@ -13,5 +13,6 @@ The Timetable Management System is a web-based application designed to streamlin
 • Database: MySQL
 • Web Server: Apache
 
+## Screenshot
 ![image](https://github.com/user-attachments/assets/5426a6d2-f19f-45c3-8b3e-7a8688f8fe9a)
 
